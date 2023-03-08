@@ -1,0 +1,252 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "tr",
+            "request": "launch",
+            "mainClass": "tr",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "abdo",
+            "request": "launch",
+            "mainClass": "abdo",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "ar",
+            "request": "launch",
+            "mainClass": "ar",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch jdjd",
+            "request": "launch",
+            "mainClass": "jdjd",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch three",
+            "request": "launch",
+            "mainClass": "oop.three",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch tow",
+            "request": "launch",
+            "mainClass": "oop.tow",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch bre",
+            "request": "launch",
+            "mainClass": "bre",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "oop.first",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch Clock",
+            "request": "launch",
+            "mainClass": "javafx.Clock",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch tow",
+            "request": "launch",
+            "mainClass": "me.tow",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch one",
+            "request": "launch",
+            "mainClass": "me.one",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch siven",
+            "request": "launch",
+            "mainClass": "arry.siven",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch six",
+            "request": "launch",
+            "mainClass": "arry.six",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch five",
+            "request": "launch",
+            "mainClass": "arry.five",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch four",
+            "request": "launch",
+            "mainClass": "arry.four",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch fx",
+            "request": "launch",
+            "mainClass": "javafx.fx",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch thre",
+            "request": "launch",
+            "mainClass": "arry.thre",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch tow",
+            "request": "launch",
+            "mainClass": "arry.tow",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch length",
+            "request": "launch",
+            "mainClass": "arry.length",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch hrmsh",
+            "request": "launch",
+            "mainClass": "arry.hrmsh",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch JF",
+            "request": "launch",
+            "mainClass": "JF",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch jjgjg",
+            "request": "launch",
+            "mainClass": "jjgjg",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch hffh",
+            "request": "launch",
+            "mainClass": "hffh",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch pro",
+            "request": "launch",
+            "mainClass": "pro",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch p",
+            "request": "launch",
+            "mainClass": "p",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch kk",
+            "request": "launch",
+            "mainClass": "kk",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch welllop",
+            "request": "launch",
+            "mainClass": "welllop",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankApplication",
+            "request": "launch",
+            "mainClass": "BankApplication",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch Temperature_converter",
+            "request": "launch",
+            "mainClass": "Temperature_converter",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch chat",
+            "request": "launch",
+            "mainClass": "chat",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch oop",
+            "request": "launch",
+            "mainClass": "oop",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch sc",
+            "request": "launch",
+            "mainClass": "sc",
+            "projectName": "java_ae56a063"
+        },
+        {
+            "type": "java",
+            "name": "Launch supermarket",
+            "request": "launch",
+            "mainClass": "supermarket",
+            "projectName": "java_ae56a063"
+        }
+    ]
+}
